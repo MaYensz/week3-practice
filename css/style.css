@@ -14,3 +14,21 @@ header nav a {
   color: #ffffff;
   margin-right: 16px;
 }
+
+h1 {
+  font-size: 2.5rem;
+}
+
+h2 {
+  font-size: 1.75rem;
+  color: #2f4a3d;
+}
+
+h3 {
+  font-size: 1.25rem;
+  color: #2f4a3d;
+}
+
+p {
+  font-size: 1rem;
+}
