@@ -1,1 +1,16 @@
+body {
+  font-family: Georgia, serif;
+  color: #262220;
+  background-color: #f8f5f0;
+}
 
+header {
+  background-color: #2f4a3d;
+  color: #ffffff;
+  padding: 20px;
+}
+
+header nav a {
+  color: #ffffff;
+  margin-right: 16px;
+}
